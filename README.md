@@ -1,7 +1,5 @@
 # Day 5 Assignment — CSS Fundamentals
 
-**Week 5 (5.1–5.5)**
-
 ## Goal
 
 Style your completed Day 4 club website with one external stylesheet shared by every page. Practice CSS selectors and the cascade, typography and colour, CSS custom properties, and debugging with browser DevTools.
